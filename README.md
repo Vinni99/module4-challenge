@@ -26,5 +26,6 @@ THEN I can save my initials and my score
   
  C:\Users\Vinicius\desktop\UCB-VIRT-FSF-PT-10-2022-U-LOLC\04-Web-APIs\Challenge\Assets\04-web-apis-homework-demo.gif
 
-  ## Link
- https://github.com/Vinni99/module4-challenge.git
+  ## Link of the site 
+  https://vinni99.github.io/module4-challenge/
+ 
